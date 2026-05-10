@@ -1,0 +1,18 @@
+# MySQL dumps & exports
+*.sql.gz
+*.dump
+*.bak
+exports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+*.env.local
